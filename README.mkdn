@@ -4,3 +4,4 @@ You wouldn't know it, but this is the repository I spend most of my time on. Yes
 
 I finally decided today that this repo should do something. So starting today, December 7th, 2021, `ahoy` will be a journal. A journal for anyone and everyone to read. A journal where I can play and laugh and vent and growl and cry and know that I can come back later if I need it. And you know what? `ahoy` will still serve its initial purpose, too. I can't stand moving to a different repo for all of that craziness.
 
+![images](https://user-images.githubusercontent.com/77066742/144997679-386e94b4-edce-48f5-ba55-7f48c12b6342.png)
